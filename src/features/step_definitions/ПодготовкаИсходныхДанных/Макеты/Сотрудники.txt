@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<V8Exch:_1CV8DtUD xmlns:V8Exch="http://www.1c.ru/V8/1CV8DtUD/" xmlns:core="http://v8.1c.ru/data" xmlns:v8="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<V8Exch:Data>
+		<v8:CatalogObject.Сотрудники>
+			<v8:Ref xsi:type="v8:CatalogRef.Сотрудники">dfd47a78-8ecf-11e6-802e-74d435122f91</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>000000004</v8:Code>
+			<v8:Description>Бухгалтер</v8:Description>
+		</v8:CatalogObject.Сотрудники>
+		<v8:CatalogObject.Сотрудники>
+			<v8:Ref xsi:type="v8:CatalogRef.Сотрудники">dfd47a77-8ecf-11e6-802e-74d435122f91</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>000000003</v8:Code>
+			<v8:Description>Маркетолог</v8:Description>
+		</v8:CatalogObject.Сотрудники>
+		<v8:CatalogObject.Сотрудники>
+			<v8:Ref xsi:type="v8:CatalogRef.Сотрудники">6480810a-8c88-11e6-802e-74d435122f91</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>000000001</v8:Code>
+			<v8:Description>Оператор</v8:Description>
+		</v8:CatalogObject.Сотрудники>
+		<v8:CatalogObject.Сотрудники>
+			<v8:Ref xsi:type="v8:CatalogRef.Сотрудники">dfd47a76-8ecf-11e6-802e-74d435122f91</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>000000002</v8:Code>
+			<v8:Description>Продавец</v8:Description>
+		</v8:CatalogObject.Сотрудники>
+		<v8:CatalogObject.Сотрудники>
+			<v8:Ref xsi:type="v8:CatalogRef.Сотрудники">dfd47a79-8ecf-11e6-802e-74d435122f91</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>000000005</v8:Code>
+			<v8:Description>Руководитель отдела продаж</v8:Description>
+		</v8:CatalogObject.Сотрудники>
+	</V8Exch:Data>
+	<PredefinedData/>
+</V8Exch:_1CV8DtUD>
