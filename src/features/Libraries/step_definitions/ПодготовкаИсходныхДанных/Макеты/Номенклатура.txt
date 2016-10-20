@@ -1,0 +1,912 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<V8Exch:_1CV8DtUD xmlns:V8Exch="http://www.1c.ru/V8/1CV8DtUD/" xmlns:core="http://v8.1c.ru/data" xmlns:v8="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<V8Exch:Data>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>true</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">16bdad54-a6e4-11e4-bf69-8cbcabbd108c</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">00000000-0000-0000-0000-000000000000</v8:Parent>
+			<v8:Code>000000001</v8:Code>
+			<v8:Description>Товары</v8:Description>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>true</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">16bdad55-a6e4-11e4-bf69-8cbcabbd108c</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">00000000-0000-0000-0000-000000000000</v8:Parent>
+			<v8:Code>000000002</v8:Code>
+			<v8:Description>Материалы</v8:Description>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>true</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">16bdad56-a6e4-11e4-bf69-8cbcabbd108c</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">00000000-0000-0000-0000-000000000000</v8:Parent>
+			<v8:Code>000000003</v8:Code>
+			<v8:Description>Продукция</v8:Description>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>true</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">16bdad57-a6e4-11e4-bf69-8cbcabbd108c</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">00000000-0000-0000-0000-000000000000</v8:Parent>
+			<v8:Code>000000004</v8:Code>
+			<v8:Description>Услуги</v8:Description>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">16bdad5b-a6e4-11e4-bf69-8cbcabbd108c</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">16bdad54-a6e4-11e4-bf69-8cbcabbd108c</v8:Parent>
+			<v8:Code>000000006</v8:Code>
+			<v8:Description>Товар1</v8:Description>
+			<v8:Артикул>Т1</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">03611a46-a56c-11e4-bf67-ef49e6a1b73d</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">96a63257-2989-11e5-bfd0-9cebe810f4aa</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">cb9aeb3c-a004-11e5-8004-f2f0892fd068</v8:ИзображениеТовара>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">7dca3bfe-a40d-11e5-8004-f2f0892fd068</v8:Свойство>
+				<v8:Значение xsi:type="xs:boolean">true</v8:Значение>
+			</v8:ДополнительныеРеквизиты>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">86a59fa0-a40d-11e5-8004-f2f0892fd068</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.Контрагенты">4a0c49ee-8adb-11e5-bfff-b4eb9fca9c4e</v8:Значение>
+			</v8:ДополнительныеРеквизиты>
+			<v8:ДополнительныеРеквизиты>
+				<v8:Свойство xsi:type="v8:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения">9512c5d2-a40d-11e5-8004-f2f0892fd068</v8:Свойство>
+				<v8:Значение xsi:type="v8:CatalogRef.ДополнительныеЗначения">9512c5d3-a40d-11e5-8004-f2f0892fd068</v8:Значение>
+			</v8:ДополнительныеРеквизиты>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">16bdad5c-a6e4-11e4-bf69-8cbcabbd108c</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">16bdad54-a6e4-11e4-bf69-8cbcabbd108c</v8:Parent>
+			<v8:Code>000000007</v8:Code>
+			<v8:Description>Товар2</v8:Description>
+			<v8:Артикул>Т2</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">03611a46-a56c-11e4-bf67-ef49e6a1b73d</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">96a63258-2989-11e5-bfd0-9cebe810f4aa</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">16bdad5d-a6e4-11e4-bf69-8cbcabbd108c</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">16bdad54-a6e4-11e4-bf69-8cbcabbd108c</v8:Parent>
+			<v8:Code>000000008</v8:Code>
+			<v8:Description>Товар3</v8:Description>
+			<v8:Артикул>Т3</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">03611a46-a56c-11e4-bf67-ef49e6a1b73d</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">96a63259-2989-11e5-bfd0-9cebe810f4aa</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">16bdad5e-a6e4-11e4-bf69-8cbcabbd108c</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">16bdad55-a6e4-11e4-bf69-8cbcabbd108c</v8:Parent>
+			<v8:Code>000000009</v8:Code>
+			<v8:Description>Материал1</v8:Description>
+			<v8:Артикул>М1</v8:Артикул>
+			<v8:ВидНоменклатуры>Материал</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">03611a46-a56c-11e4-bf67-ef49e6a1b73d</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">16bdad5f-a6e4-11e4-bf69-8cbcabbd108c</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">16bdad55-a6e4-11e4-bf69-8cbcabbd108c</v8:Parent>
+			<v8:Code>000000010</v8:Code>
+			<v8:Description>Материал2</v8:Description>
+			<v8:Артикул>М2</v8:Артикул>
+			<v8:ВидНоменклатуры>Материал</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">03611a46-a56c-11e4-bf67-ef49e6a1b73d</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">16bdad60-a6e4-11e4-bf69-8cbcabbd108c</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">16bdad55-a6e4-11e4-bf69-8cbcabbd108c</v8:Parent>
+			<v8:Code>000000011</v8:Code>
+			<v8:Description>Материал3</v8:Description>
+			<v8:Артикул>М3</v8:Артикул>
+			<v8:ВидНоменклатуры>Материал</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">03611a46-a56c-11e4-bf67-ef49e6a1b73d</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">16bdad61-a6e4-11e4-bf69-8cbcabbd108c</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">16bdad56-a6e4-11e4-bf69-8cbcabbd108c</v8:Parent>
+			<v8:Code>000000012</v8:Code>
+			<v8:Description>Продукция1</v8:Description>
+			<v8:Артикул>Х14226ВМ</v8:Артикул>
+			<v8:ВидНоменклатуры>Продукция</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>true</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">16bdad62-a6e4-11e4-bf69-8cbcabbd108c</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">16bdad57-a6e4-11e4-bf69-8cbcabbd108c</v8:Parent>
+			<v8:Code>000000014</v8:Code>
+			<v8:Description>Услуга1</v8:Description>
+			<v8:Артикул>У1</v8:Артикул>
+			<v8:ВидНоменклатуры>Услуга</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>true</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">00000000-0000-0000-0000-000000000000</v8:Parent>
+			<v8:Code>000000017</v8:Code>
+			<v8:Description>Прочие товары</v8:Description>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">c3207f00-0524-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000018</v8:Code>
+			<v8:Description>Товар4</v8:Description>
+			<v8:Артикул>Т4</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">c3207f01-0524-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000019</v8:Code>
+			<v8:Description>Товар5</v8:Description>
+			<v8:Артикул>Т5</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">c3207f02-0524-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000020</v8:Code>
+			<v8:Description>Товар6</v8:Description>
+			<v8:Артикул>Т6</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebaa4-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000023</v8:Code>
+			<v8:Description>Товар7</v8:Description>
+			<v8:Артикул>Т7</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebaa5-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000024</v8:Code>
+			<v8:Description>Товар8</v8:Description>
+			<v8:Артикул>Т8</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebaa6-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000025</v8:Code>
+			<v8:Description>Товар9</v8:Description>
+			<v8:Артикул>Т9</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebaa7-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000026</v8:Code>
+			<v8:Description>Товар10</v8:Description>
+			<v8:Артикул>Т10</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebaa8-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000027</v8:Code>
+			<v8:Description>Товар11</v8:Description>
+			<v8:Артикул>Т11</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebaa9-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000028</v8:Code>
+			<v8:Description>Товар12</v8:Description>
+			<v8:Артикул>Т12</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebaaa-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000029</v8:Code>
+			<v8:Description>Товар13</v8:Description>
+			<v8:Артикул>Т13</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebaab-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000030</v8:Code>
+			<v8:Description>Товар14</v8:Description>
+			<v8:Артикул>Т14</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebaac-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000031</v8:Code>
+			<v8:Description>Товар15</v8:Description>
+			<v8:Артикул>Т15</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebaad-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000032</v8:Code>
+			<v8:Description>Товар16</v8:Description>
+			<v8:Артикул>Т16</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebaae-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000033</v8:Code>
+			<v8:Description>Товар17</v8:Description>
+			<v8:Артикул>Т17</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebaaf-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000034</v8:Code>
+			<v8:Description>Товар18</v8:Description>
+			<v8:Артикул>Т18</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebab0-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000035</v8:Code>
+			<v8:Description>Товар19</v8:Description>
+			<v8:Артикул>Т19</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebab1-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000036</v8:Code>
+			<v8:Description>Товар20</v8:Description>
+			<v8:Артикул>Т20</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebab2-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000037</v8:Code>
+			<v8:Description>Товар21</v8:Description>
+			<v8:Артикул>Т21</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebab3-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000038</v8:Code>
+			<v8:Description>Товар22</v8:Description>
+			<v8:Артикул>Т22</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebab4-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000039</v8:Code>
+			<v8:Description>Товар23</v8:Description>
+			<v8:Артикул>Т23</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebab5-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000040</v8:Code>
+			<v8:Description>Товар24</v8:Description>
+			<v8:Артикул>Т24</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebab6-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000041</v8:Code>
+			<v8:Description>Товар25</v8:Description>
+			<v8:Артикул>Т25</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebab7-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000042</v8:Code>
+			<v8:Description>Товар26</v8:Description>
+			<v8:Артикул>Т26</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebab8-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000043</v8:Code>
+			<v8:Description>Товар27</v8:Description>
+			<v8:Артикул>Т27</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebab9-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000044</v8:Code>
+			<v8:Description>Товар28</v8:Description>
+			<v8:Артикул>Т28</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebaba-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000045</v8:Code>
+			<v8:Description>Товар29</v8:Description>
+			<v8:Артикул>Т29</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebabb-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000046</v8:Code>
+			<v8:Description>Товар30</v8:Description>
+			<v8:Артикул>Т30</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebabc-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000047</v8:Code>
+			<v8:Description>Товар31</v8:Description>
+			<v8:Артикул>Т31</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebabd-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000048</v8:Code>
+			<v8:Description>Товар32</v8:Description>
+			<v8:Артикул>Т32</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebabe-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000049</v8:Code>
+			<v8:Description>Товар33</v8:Description>
+			<v8:Артикул>Т33</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebabf-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000050</v8:Code>
+			<v8:Description>Товар34</v8:Description>
+			<v8:Артикул>Т34</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebac0-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000051</v8:Code>
+			<v8:Description>Товар35</v8:Description>
+			<v8:Артикул>Т35</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebac1-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000052</v8:Code>
+			<v8:Description>Товар36</v8:Description>
+			<v8:Артикул>Т36</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebac2-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000053</v8:Code>
+			<v8:Description>Товар37</v8:Description>
+			<v8:Артикул>Т37</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebac3-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000054</v8:Code>
+			<v8:Description>Товар38</v8:Description>
+			<v8:Артикул>Т38</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebac4-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000055</v8:Code>
+			<v8:Description>Товар39</v8:Description>
+			<v8:Артикул>Т39</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebac5-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000056</v8:Code>
+			<v8:Description>Товар40</v8:Description>
+			<v8:Артикул>Т40</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebac6-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000057</v8:Code>
+			<v8:Description>Товар41</v8:Description>
+			<v8:Артикул>Т41</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebac7-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000058</v8:Code>
+			<v8:Description>Товар42</v8:Description>
+			<v8:Артикул>Т42</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebac8-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000059</v8:Code>
+			<v8:Description>Товар43</v8:Description>
+			<v8:Артикул>Т43</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebac9-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000060</v8:Code>
+			<v8:Description>Товар44</v8:Description>
+			<v8:Артикул>Т44</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebaca-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000061</v8:Code>
+			<v8:Description>Товар45</v8:Description>
+			<v8:Артикул>Т45</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebacb-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000062</v8:Code>
+			<v8:Description>Товар46</v8:Description>
+			<v8:Артикул>Т46</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebacc-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000063</v8:Code>
+			<v8:Description>Товар47</v8:Description>
+			<v8:Артикул>Т47</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebacd-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000064</v8:Code>
+			<v8:Description>Товар48</v8:Description>
+			<v8:Артикул>Т48</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebace-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000065</v8:Code>
+			<v8:Description>Товар49</v8:Description>
+			<v8:Артикул>Т49</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebacf-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000066</v8:Code>
+			<v8:Description>Товар50</v8:Description>
+			<v8:Артикул>Т50</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebad0-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000067</v8:Code>
+			<v8:Description>Товар51</v8:Description>
+			<v8:Артикул>Т51</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebad1-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000068</v8:Code>
+			<v8:Description>Товар52</v8:Description>
+			<v8:Артикул>Т52</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebad2-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000069</v8:Code>
+			<v8:Description>Товар53</v8:Description>
+			<v8:Артикул>Т53</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebad3-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000070</v8:Code>
+			<v8:Description>Товар54</v8:Description>
+			<v8:Артикул>Т54</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">b0aebad4-0525-11e5-bfc4-a95219445367</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">c3207eff-0524-11e5-bfc4-a95219445367</v8:Parent>
+			<v8:Code>000000071</v8:Code>
+			<v8:Description>Товар55</v8:Description>
+			<v8:Артикул>Т55</v8:Артикул>
+			<v8:ВидНоменклатуры>Товар</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+		<v8:CatalogObject.Номенклатура>
+			<v8:IsFolder>false</v8:IsFolder>
+			<v8:Ref xsi:type="v8:CatalogRef.Номенклатура">23d9e969-0e99-11e5-bfc7-9cebe810f4aa</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Parent xsi:type="v8:CatalogRef.Номенклатура">16bdad57-a6e4-11e4-bf69-8cbcabbd108c</v8:Parent>
+			<v8:Code>000000072</v8:Code>
+			<v8:Description>Услуга2</v8:Description>
+			<v8:Артикул>У2</v8:Артикул>
+			<v8:ВидНоменклатуры>Услуга</v8:ВидНоменклатуры>
+			<v8:ОсновнойПоставщик xsi:type="v8:CatalogRef.Контрагенты">00000000-0000-0000-0000-000000000000</v8:ОсновнойПоставщик>
+			<v8:Весовой>false</v8:Весовой>
+			<v8:Изображение xsi:type="v8:CatalogRef.ХранилищеИзображений">00000000-0000-0000-0000-000000000000</v8:Изображение>
+			<v8:ИзображениеТовара xsi:type="v8:CatalogRef.ПрисоединенныеФайлы">00000000-0000-0000-0000-000000000000</v8:ИзображениеТовара>
+		</v8:CatalogObject.Номенклатура>
+	</V8Exch:Data>
+	<PredefinedData/>
+</V8Exch:_1CV8DtUD>
